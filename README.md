@@ -5,12 +5,14 @@
 ### Part 1: Imaging Technique Inspiration
 
 - **Imaging technique**: Moiré patterns
-- **My ideas**:I would like to incorporate the overlapping line layers from Moiré patterns and the moving visual effect they create into our project. Specifically, I want one layer of repeated lines or any other shapes to stay still while another layer slowly shifts or follows the mouse. This can create a vibrating, wave-like effect from very simple shapes. I think this is beneficial because it fits the assignment’s interaction requirement clearly, and it also creates a strong visual result.
+- **My ideas**: I would like to incorporate the overlapping line layers from Moiré patterns and the moving visual effect they create into our project. Specifically, I want one layer of repeated lines or any other shapes to stay still while another layer slowly shifts or follows the mouse. This can create a vibrating, wave-like effect from very simple shapes. I think this is beneficial because it fits the assignment’s interaction requirement clearly, and it also creates a strong visual result.
 - **Inspiration examples**:
   - Example 1
-  ![Example 1](https://www.exploratorium.edu/sites/default/files/MoirePatterns_DSC_9924_2.gif)
+  ![Example 1.1](readmeImages/eg1.1.png)
+  ![Example 1.2](readmeImages/eg1.2.png)
   - Example 2
-  ![Example 2](https://www.sterlingpresser.com/wp/wp-content/uploads/2023/12/Moire.gif)
+  ![Example 2.1](readmeImages/eg2.1.png)
+  ![Example 2.2](readmeImages/eg2.2.png)
   - Example 3
   ![Example 3.1](https://csicdn.kiwico.com/v3/assets/blt5d966d0d1776691c/bltd1a193d42dc7b7ff/5ffdb870fea4437b6a7a4387/a004ba13468f8.jpg)
   ![Example 3.2](https://csicdn.kiwico.com/v3/assets/blt5d966d0d1776691c/blt00042515b3d4b28e/5ffdb878d364b366fe6cf8ea/ab33e7aa92398.jpg)
@@ -27,11 +29,11 @@
     - Implementation 
     [00:00-00:36](https://www.youtube.com/watch?v=CTa65yGcjFU)
     - Code
-    ![An image of a coding 1](readmeImages/example1.png)
+    ![An image of a coding 1](readmeImages/coding1.png)
   - Example 2
     - Implementation 
     [play it](https://openprocessing.org/sketch/456792)
     - Code
-    ![An image of a coding 2](readmeImages/example2.png)
+    ![An image of a coding 1](readmeImages/coding2.png)
 
 
