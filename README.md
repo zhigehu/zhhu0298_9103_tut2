@@ -33,7 +33,7 @@
   - Example 2
     - Implementation 
     [play it](https://openprocessing.org/sketch/456792)
-    - Code
+    - Code  
     ![An image of a coding 1](readmeImages/coding2.png)
 
 
