@@ -30,7 +30,7 @@
     ![An image of a coding 1](readmeImages/example1.png)
   - Example 2
     - Implementation 
-    [play](https://openprocessing.org/sketch/456792)
+    [play it](https://openprocessing.org/sketch/456792)
     - Code
     ![An image of a coding 2](readmeImages/example2.png)
 
