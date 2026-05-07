@@ -26,14 +26,14 @@
 - **Discussion**: The coding technique I would like to use is drawing repeated line layers with for loops, then slightly moving or rotating one layer using mouse input or time. This helps create the Moiré effect because the interference pattern appears when two similar line systems overlap but are not perfectly aligned.
 - **Examples**:
   - Example 1 
-    - Implementation 
+    - Implementation: 
     [00:00-00:36](https://www.youtube.com/watch?v=CTa65yGcjFU)
-    - Code
+    - Code:  
     ![An image of a coding 1](readmeImages/coding1.png)
   - Example 2
-    - Implementation 
+    - Implementation: 
     [play it](https://openprocessing.org/sketch/456792)
-    - Code  
+    - Code:   
     ![An image of a coding 1](readmeImages/coding2.png)
 
 
